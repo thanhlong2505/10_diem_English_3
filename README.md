@@ -1,5 +1,156 @@
 # Study Notes
 
+# Sự hòa hợp thì (Sequence of Tenses)
+
+> **Quy tắc quan trọng nhất:**
+>
+> - Nếu mệnh đề chính ở **quá khứ** → mệnh đề phụ thường cũng lùi về **quá khứ**.
+> - Nếu mệnh đề phụ là **sự thật hiển nhiên** hoặc **thói quen**, không cần lùi thì.
+
+---
+
+# 1. Hiện tại + Hiện tại ✅
+
+Dùng khi nói về sự thật, thói quen, ý kiến, hoặc hai hành động cùng ở hiện tại.
+
+**Cấu trúc**
+
+```text
+Present + Present
+```
+
+**Ví dụ**
+
+- I think he **is** very friendly.
+- She says she **likes** English.
+- I know he **works** hard.
+
+---
+
+# 2. Quá khứ + Quá khứ ✅
+
+Đây là trường hợp gặp nhiều nhất.
+
+**Cấu trúc**
+
+```text
+Past + Past
+```
+
+**Ví dụ**
+
+- I thought he **was** busy.
+- She said she **liked** English.
+- I knew he **worked** hard.
+
+---
+
+# 3. Hiện tại + Tương lai ✅
+
+Khi mệnh đề chính ở hiện tại và nói về tương lai.
+
+**Cấu trúc**
+
+```text
+Present + Future
+```
+
+**Ví dụ**
+
+- I think he **will come** tomorrow.
+- She believes she **will pass** the exam.
+- I hope it **will be** sunny.
+
+---
+
+# 4. Quá khứ + Tương lai trong quá khứ (would)
+
+Nếu mệnh đề chính ở quá khứ nhưng hành động phía sau xảy ra sau thời điểm đó.
+
+**Cấu trúc**
+
+```text
+Past + would + V
+```
+
+**Ví dụ**
+
+- I thought he **would come**.
+- She said she **would help** me.
+- We believed they **would win**.
+
+---
+
+# 5. Hiện tại + Quá khứ
+
+Được dùng khi nói về một sự việc đã xảy ra.
+
+**Ví dụ**
+
+- I know he **went** to Hanoi yesterday.
+- She says she **met** him last week.
+
+---
+
+# 6. Quá khứ + Hiện tại (Ít gặp)
+
+Chỉ dùng khi mệnh đề phụ là sự thật hoặc vẫn còn đúng đến hiện tại.
+
+**Ví dụ**
+
+- The teacher said the Earth **moves** around the Sun.
+- My father told me that water **boils** at 100°C.
+
+❌ Không nói:
+
+- The teacher said the Earth **moved** around the Sun.
+
+---
+
+# Mẹo làm bài Speaking/Writing B1
+
+### Khi dùng "because"
+
+Nếu nguyên nhân và kết quả cùng xảy ra ở hiện tại:
+
+```text
+I like boxing because it helps me stay healthy.
+```
+
+Nếu đều là chuyện trong quá khứ:
+
+```text
+I liked the trip because it was very exciting.
+```
+
+Nếu nói về tương lai:
+
+```text
+I want to work overseas because I will have more opportunities.
+```
+
+---
+
+# Một số cặp thì rất hay gặp
+
+| Mệnh đề chính | Mệnh đề phụ |
+|---------------|-------------|
+| Present | Present |
+| Present | Future |
+| Past | Past |
+| Past | would + V |
+| Present | Past (nói sự việc đã xảy ra) |
+
+---
+
+# Mẹo nhớ nhanh
+
+✅ Hiện tại → đi với **Hiện tại** hoặc **Tương lai**
+
+✅ Quá khứ → đi với **Quá khứ** hoặc **Would**
+
+Đây là 4 trường hợp xuất hiện nhiều nhất trong bài thi B1.
+
 ## Mục lục
 - [Unit 1](#i-tổng-quan-unit-1)
 - [Unit 2](#i-tổng-quan-unit-2)
