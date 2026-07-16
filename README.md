@@ -155,8 +155,11 @@ I want to work overseas because I will have more opportunities.
 - [Unit 1](#i-tổng-quan-unit-1)
 - [Danh sách cần học thuộc Unit 1](#4-danh-sách-nhanh-các-điểm-cần-học-thuộc)
 - [Unit 2](#i-tổng-quan-unit-2)
+- [Danh sách cần học thuộc Unit 2](#4-danh-sách-nhanh-cần-học-thuộc)
 - [Unit 3](#i-tổng-quan-unit-3)
+- [Danh sách cần học thuộc Unit 3](#4-danh-sách-nhanh-cần-học-thuộc)
 - [Unit 4](#i-tổng-quan-unit-4)
+- [Danh sách cần học thuộc Unit 4](#4-danh-sách-nhanh-các-điểm-cần-học-thuộc)
 
 
 NGUỒN THAM CHIẾU: tienganh3.pdf, Unit 1 “Culture and identity”, trang 9–20. :contentReference[oaicite:0]{index=0}
@@ -1276,7 +1279,7 @@ NGUỒN: PDF “tienganh3.pdf”, Unit 2 “Performing”, phạm vi trang sách
 | Linking words | although, despite, however, nevertheless, consequently, therefore... | Cao |
 | Writing | Review structure + linkers | Trung bình - Cao |
 
-4. Danh sách nhanh cần học thuộc
+## 4. Danh sách nhanh cần học thuộc
 - Present perfect simple:
   - S + have/has + V3/V-ed
   - S + haven’t/hasn’t + V3/V-ed
@@ -2403,7 +2406,7 @@ NGUỒN: PDF “tienganh3.pdf”, Unit 3 “Water”, phạm vi trang sách 33�
 | Functional language | Telling stories | Cao |
 | Writing | Blog post + interesting language | Trung bình - Cao |
 
-4. Danh sách nhanh cần học thuộc
+## 4. Danh sách nhanh cần học thuộc
 - Past simple:
   - S + V2/V-ed
   - S + didn’t + V
@@ -3509,7 +3512,7 @@ NGUỒN: PDF “tienganh3.pdf”, Unit 4 “Opportunities”, phạm vi trang s�
 | Collocations | get a promotion, do a degree, retake an exam, work overtime, strict deadlines | Cao |
 | Error identification | wrong future form / wrong request pattern / wrong preposition | Rất cao |
 
-4. Danh sách nhanh các điểm cần học thuộc
+## 4. Danh sách nhanh các điểm cần học thuộc
 - job = danh từ đếm được: a job, jobs.
 - work = danh từ không đếm được hoặc động từ: hard work, work as, work for.
 - Predictions:
