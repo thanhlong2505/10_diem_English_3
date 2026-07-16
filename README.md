@@ -153,7 +153,7 @@ I want to work overseas because I will have more opportunities.
 
 ## Mục lục
 - [Unit 1](#i-tổng-quan-unit-1)
-- Danh sách cần học thuộc Unit 1(4. Danh sách nhanh các điểm cần học thuộc)
+- [Danh sách cần học thuộc Unit 1](#4-danh-sách-nhanh-các-điểm-cần-học-thuộc)
 - [Unit 2](#i-tổng-quan-unit-2)
 - [Unit 3](#i-tổng-quan-unit-3)
 - [Unit 4](#i-tổng-quan-unit-4)
@@ -195,7 +195,7 @@ NGUỒN THAM CHIẾU: tienganh3.pdf, Unit 1 “Culture and identity”, trang 9�
 | Writing | Business profile, criteria for writing | Trung bình - Cao |
 | Reading vocabulary | culture, globalization, identity, market, customers, etc. | Cao |
 
-4. Danh sách nhanh các điểm cần học thuộc
+## 4. Danh sách nhanh các điểm cần học thuộc
 - Present simple: dùng cho sự thật chung, thói quen, trạng thái lâu dài.
 - Present continuous: dùng cho hành động đang diễn ra hoặc tình huống tạm thời.
 - Stative verbs: know, believe, understand, belong, mean, need, seem, want, have, like, love, prefer...
