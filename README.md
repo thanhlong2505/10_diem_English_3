@@ -153,6 +153,7 @@ I want to work overseas because I will have more opportunities.
 
 ## Mục lục
 - [Unit 1](#i-tổng-quan-unit-1)
+- Danh sách cần học thuộc Unit 1(4. Danh sách nhanh các điểm cần học thuộc)
 - [Unit 2](#i-tổng-quan-unit-2)
 - [Unit 3](#i-tổng-quan-unit-3)
 - [Unit 4](#i-tổng-quan-unit-4)
