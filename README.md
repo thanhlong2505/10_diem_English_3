@@ -4110,6 +4110,7 @@ V. FUNCTIONAL LANGUAGE / EVERYDAY ENGLISH
 
 
 3. Bẫy request patterns
+
 | Cấu trúc đúng | Không dùng |
 |---|---|
 | Would you mind + V-ing? | Would you mind to V? |
