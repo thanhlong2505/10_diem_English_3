@@ -4108,6 +4108,7 @@ V. FUNCTIONAL LANGUAGE / EVERYDAY ENGLISH
 | I’m not sure about that. | từ chối nhẹ/không chắc | Tôi không chắc về điều đó. | lịch sự hơn “No” |
 | I’m sorry but I can’t. [MỞ RỘNG] | từ chối | Xin lỗi nhưng tôi không thể. | mở rộng ngoài bảng |
 
+
 3. Bẫy request patterns
 | Cấu trúc đúng | Không dùng |
 |---|---|
